@@ -1,0 +1,13 @@
+C:\Users\derko\Documents\GFT .net\MovieQuotes\obj\Debug\netcoreapp3.1\MovieQuotes.csprojAssemblyReference.cache
+C:\Users\derko\Documents\GFT .net\MovieQuotes\obj\Debug\netcoreapp3.1\MovieQuotes.AssemblyInfoInputs.cache
+C:\Users\derko\Documents\GFT .net\MovieQuotes\obj\Debug\netcoreapp3.1\MovieQuotes.AssemblyInfo.cs
+C:\Users\derko\Documents\GFT .net\MovieQuotes\obj\Debug\netcoreapp3.1\MovieQuotes.csproj.CoreCompileInputs.cache
+C:\Users\derko\Documents\GFT .net\MovieQuotes\bin\Debug\netcoreapp3.1\MovieQuotes.exe
+C:\Users\derko\Documents\GFT .net\MovieQuotes\bin\Debug\netcoreapp3.1\MovieQuotes.deps.json
+C:\Users\derko\Documents\GFT .net\MovieQuotes\bin\Debug\netcoreapp3.1\MovieQuotes.runtimeconfig.json
+C:\Users\derko\Documents\GFT .net\MovieQuotes\bin\Debug\netcoreapp3.1\MovieQuotes.runtimeconfig.dev.json
+C:\Users\derko\Documents\GFT .net\MovieQuotes\bin\Debug\netcoreapp3.1\MovieQuotes.dll
+C:\Users\derko\Documents\GFT .net\MovieQuotes\bin\Debug\netcoreapp3.1\MovieQuotes.pdb
+C:\Users\derko\Documents\GFT .net\MovieQuotes\obj\Debug\netcoreapp3.1\MovieQuotes.dll
+C:\Users\derko\Documents\GFT .net\MovieQuotes\obj\Debug\netcoreapp3.1\MovieQuotes.pdb
+C:\Users\derko\Documents\GFT .net\MovieQuotes\obj\Debug\netcoreapp3.1\MovieQuotes.genruntimeconfig.cache
